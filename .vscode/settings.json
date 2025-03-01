@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "ctxt"
+  ],
+  "java.project.outputPath": "./dist",
+  "java.project.sourcePaths": ["src"],
+  "java.autobuild.enabled": true,
+}

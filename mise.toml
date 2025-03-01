@@ -1,0 +1,5 @@
+[tools]
+java = "17"
+
+[tasks]
+build = "javac -d dist src/**/*.java"
