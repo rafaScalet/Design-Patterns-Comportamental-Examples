@@ -7,16 +7,4 @@
   "java.project.outputPath": "./dist",
   "java.project.sourcePaths": ["src"],
   "java.autobuild.enabled": true,
-  "files.exclude": {
-    "**/.git": false,
-    "**/.svn": false,
-    "**/.hg": false,
-    "**/CVS": false,
-    "**/.DS_Store": false,
-    "**/Thumbs.db": false,
-    "**/node_modules": false,
-    "[!s]*/**": true,
-    "s[!r]*/**": true,
-    "sr[!c]*/**": true
-  },
 }
